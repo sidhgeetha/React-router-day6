@@ -6,7 +6,7 @@ const LogoNavbar = () => {
     <nav className="navbar navbar-light bg-light">
       <div className="container">
         <Link className="navbar-brand" to="/">
-          <img src="public/assets/Guvi-blog-logo.png" alt="Logo" />{" "}
+          <img src="assets/Guvi-blog-logo.png" alt="Logo" />{" "}
         </Link>
         <div
           className="d-flex align-items-center"
