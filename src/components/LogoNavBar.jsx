@@ -4,9 +4,9 @@ import { Link } from "react-router-dom";
 const LogoNavbar = () => {
   return (
     <nav className="navbar navbar-light bg-light">
-      <div className="container" >
+      <div className="container">
         <Link className="navbar-brand" to="/">
-          <img src="src/assets/Guvi-blog-logo.png" alt="Logo" />{" "}
+          <img src="public/assets/Guvi-blog-logo.png" alt="Logo" />{" "}
         </Link>
         <div
           className="d-flex align-items-center"
