@@ -16,3 +16,5 @@ Currently, two official plugins are available:
 4. Passed required data based on filter condition to othere compoenents namely fullstack, career, cyber security,data science.
 
 
+![Alt text](<Screenshot 2024-02-27 at 17.33.43.png>)
+
