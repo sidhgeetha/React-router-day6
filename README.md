@@ -10,3 +10,9 @@ Currently, two official plugins are available:
 
 ## Web page with router ##
 
+1. Created react application using reat-router-DOM
+2. React router dom library helps to manage multiple pages navigation. 
+3. All component to map all products andn t=return the data to card.
+4. Passed required data based on filter condition to othere compoenents namely fullstack, career, cyber security,data science.
+
+
